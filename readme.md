@@ -203,36 +203,42 @@ The current model is intended as a practical detection baseline and can be furth
 
 # 📉 Training Results
 
-Training and validation metrics are available in:
+Training and validation metrics are shown below.
 
-```text
-results/training/results.png
-```
+<p align="center">
+  <img src="results/training/results.png" width="100%">
+</p>
 
 The training results include:
 
-* Training box loss
-* Training classification loss
-* Training DFL loss
-* Validation box loss
-* Validation classification loss
-* Validation DFL loss
-* Precision
-* Recall
-* mAP50
-* mAP50-95
+- Training box loss
+- Training classification loss
+- Training DFL loss
+- Validation box loss
+- Validation classification loss
+- Validation DFL loss
+- Precision
+- Recall
+- mAP50
+- mAP50-95
 
-Additional evaluation visualizations are available:
+### Confusion Matrix
 
-```text
-results/training/confusion_matrix.png
+<p align="center">
+  <img src="results/training/confusion_matrix.png" width="80%">
+</p>
 
-results/training/confusion_matrix_normalized.png
+### Normalized Confusion Matrix
 
-results/training/labels.jpg
-```
+<p align="center">
+  <img src="results/training/confusion_matrix_normalized.png" width="80%">
+</p>
 
----
+### Dataset Labels
+
+<p align="center">
+  <img src="results/training/labels.jpg" width="80%">
+</p>
 
 # 🖼️ Detection Results
 
