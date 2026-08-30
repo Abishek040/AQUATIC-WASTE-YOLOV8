@@ -236,19 +236,19 @@ results/training/labels.jpg
 
 # 🖼️ Detection Results
 
-Example detection outputs are available in:
+### Example Detection Results
 
-```text
-results/detection/
-```
+<p align="center">
+  <img src="results/detection/detection_1.png" width="80%">
+</p>
 
-Current examples include:
+<p align="center">
+  <img src="results/detection/detection_2.png" width="80%">
+</p>
 
-```text
-detection_1.png
-detection_2.png
-detection_3.png
-```
+<p align="center">
+  <img src="results/detection/detection_3.png" width="80%">
+</p>
 
 These images demonstrate the trained YOLOv8 model detecting floating objects in water scenes.
 
@@ -256,10 +256,12 @@ These images demonstrate the trained YOLOv8 model detecting floating objects in 
 
 # ⚙️ Installation
 
-## 1. Clone the Repository
+## ⚙️ Installation
+
+### 1. Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/Abishek040/AQUATIC-WASTE-YOLOV8.git
 ```
 
 Then enter the repository:
