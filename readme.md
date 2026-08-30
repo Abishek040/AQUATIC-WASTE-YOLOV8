@@ -256,8 +256,6 @@ These images demonstrate the trained YOLOv8 model detecting floating objects in 
 
 # ⚙️ Installation
 
-## ⚙️ Installation
-
 ### 1. Clone the Repository
 
 ```bash
